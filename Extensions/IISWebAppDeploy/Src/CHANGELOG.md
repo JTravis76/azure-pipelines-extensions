@@ -2,6 +2,10 @@
 All notable changes to this project will be documented in this file.
 This project adheres to [Semantic Versioning](http://semver.org/).
 
+## [1.5.9.1] 6th December 2019
+### Added
+- Add Thycotic Secret Server support for IISWebAppDeploy and IISWebAppMgmt. Must have `tss` command available from environment variable.
+
 ## [1.5.9] 6th December 2019
 ### Added
 - Moved the tasks IISWebAppDeploy, IISWebAppMgmt and SqlDacpacDeploy to PS3 Handler.
